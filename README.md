@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/kalfadda/player-input-wrapper/badge/main)](https://www.codefactor.io/repository/github/kalfadda/player-input-wrapper/overview/main)
 # Unity Input Mapping and Management
 
 ## Overview
