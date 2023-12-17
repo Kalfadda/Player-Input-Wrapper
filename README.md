@@ -2,7 +2,7 @@
 # Unity Input Mapping and Management
 
 ## Overview
-This repository contains two key scripts for Unity game development: `PlayerInputMapping.cs` and `PlayerInputManager.cs`. These scripts are designed to facilitate customizable key bindings and input management in Unity games, enhancing player accessibility and control customization. 
+This repository contains two key scripts for Unity game development: `PlayerInputMapping.cs` and `PlayerInputManager.cs`. These scripts are designed to facilitate customizable key bindings and input management in Unity games using Unity's original Input System, enhancing player accessibility and control customization. 
 
 The primary focus of this repository is to provide a reference for implementing accessible and flexible input systems in Unity games. While it's primarily for my personal reference in future projects, it's made public to assist developers in including essential accessibility features like key rebinding.
 
